@@ -3,7 +3,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"golang.go"
+				"golang.go",
+				"equinusocio.vsc-community-material-theme"
 			]
 		}
 	}
